@@ -12,3 +12,8 @@ div {
 .mainArea, hover {
   cursor: pointer;
 }
+
+HTML,BODY{
+  cursor: url("http://downloads.totallyfreecursors.com/cursor_files/lightsaberblue.cur"), 
+  url("http://downloads.totallyfreecursors.com/thumbnails/light-saber-blue.gif"), auto;
+}
