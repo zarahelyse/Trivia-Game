@@ -1,0 +1,10 @@
+div {
+    margin-bottom: 20px;
+  }
+  .correct, .incorrect {
+    text-transform: capitalize;
+  }
+
+.start-button {
+  background-color:black;
+}
