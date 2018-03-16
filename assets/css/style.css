@@ -9,9 +9,6 @@ div {
   background-color:black;
 }
 
-.mainArea, hover {
-  cursor: pointer;
-}
 
 HTML,BODY{
   cursor: url("http://downloads.totallyfreecursors.com/cursor_files/lightsaberblue.cur"), 
